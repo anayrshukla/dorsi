@@ -1,5 +1,9 @@
 "use client";
 
+import 'd1/app/globals.css'
+import 'd1/app/layout.tsx'
+import 'd1/app/page.tsx'
+
 import { useState } from 'react'
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
